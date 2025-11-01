@@ -34,3 +34,14 @@ The goal of this project is to analyze coffee shop sales data and uncover key in
 - Encourage **digital payments** through loyalty rewards or discount campaigns.  
 
 ---
+
+## 📊 Visual Insights
+
+### ☕ Top-Selling Coffee Products
+![Top Selling Products](images/top_selling_products.png)
+
+### 📈 Revenue Growth (Jan–Mar)
+![Revenue Trend](images/revenue_trend.png)
+
+### ⏰ Peak Sales Hours & Days
+![Peak Hours](images/peak_sales.png)
