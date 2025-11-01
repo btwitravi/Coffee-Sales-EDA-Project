@@ -58,18 +58,20 @@ The goal of this project is to analyze coffee shop sales data and uncover key in
 This analysis provided actionable insights to improve product strategy, optimize staffing during peak hours, and enhance customer engagement through data-driven decisions.
 
 ---
+
 ## 📎 Project Files
-| File | Description |
-|------|--------------|
+| File / Folder | Description |
+|----------------|--------------|
 | `coffee_sales.ipynb` | Jupyter notebook containing full code & analysis |
-| `coffee_sales.csv` | Raw dataset used for the analysis |
+| `data/coffee_sales.csv` | Raw dataset used for the analysis |
 | `Coffee_Sales_Report.pdf` | Final report with visual insights & recommendations |
+| `images/` | Folder containing visualization charts (used in README & report) |
+| `README.md` | Project overview, objectives, insights, and visuals for GitHub |
 
 ---
 
 ## 👨‍💻 Author
 **Ravi Kumar Gupta**  
-📍 Delhi, India  
 🔗 [GitHub Profile](https://github.com/btwitravi)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ravi-kumar-gupta-161745247/)
 
