@@ -45,3 +45,16 @@ The goal of this project is to analyze coffee shop sales data and uncover key in
 
 ### ⏰ Peak Sales Hours & Days
 ![Peak Hours](images/peak_sales.png)
+
+## 🧠 Skills & Tools Used
+- **Languages:** Python  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Techniques:** Data Cleaning, EDA, GroupBy, Visualization, Statistical Analysis  
+- **Environment:** Jupyter Notebook  
+
+---
+
+## 📈 Results
+This analysis provided actionable insights to improve product strategy, optimize staffing during peak hours, and enhance customer engagement through data-driven decisions.
+
+---
