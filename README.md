@@ -71,8 +71,10 @@ This analysis provided actionable insights to improve product strategy, optimize
 ---
 
 ## 👨‍💻 Author
+
 **Ravi Kumar Gupta**  
-🔗 [GitHub Profile](https://github.com/btwitravi)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ravi-kumar-gupta-161745247/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/btwitravi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-gupta-161745247/)
 
 ---
