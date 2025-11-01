@@ -58,3 +58,12 @@ The goal of this project is to analyze coffee shop sales data and uncover key in
 This analysis provided actionable insights to improve product strategy, optimize staffing during peak hours, and enhance customer engagement through data-driven decisions.
 
 ---
+
+Coffee-Sales-EDA-Project/
+ ┣ coffee_sales.ipynb
+ ┣ Coffee_Sales_Report.pdf
+ ┣ README.md
+ ┗ images/
+     ┣ top_selling_products.png
+     ┣ revenue_trend.png
+     ┗ peak_sales.png
